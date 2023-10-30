@@ -1,0 +1,57 @@
+a{
+    text-decoration: none;
+    background-color: yellow;
+    color: brown;
+    border-color: green;
+    border-style: dashed;
+    border-radius: 50%;
+    
+}
+
+a:hover{
+    background-color: black;
+    color: yellow;
+}
+.divindex,.divmijncv,.divcontact{
+    color: brown;
+    text-align: center;
+    border-style: groove;
+    border-color: whitesmoke;
+    
+}
+body{
+    background-color: aqua;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.fotocopy{
+    width: 10px;
+    float: right;
+}
+.tabel{
+    color: blue;
+    size: 30px;
+    text-shadow: 5px 5px 5px purple;
+    background-color: whitesmoke;
+    display: block;
+    width: 20%;
+    border-style: dashed;
+    border-color: yellow;
+}
+.formulier{
+    display: block;
+    background-color: whitesmoke;
+    margin: 10px 10px;
+    border-radius: 1%;
+    width: 98%;
+}
+
+button{
+    background-color: red;
+}
+button:hover{
+    background-color: blueviolet;
+    
+}
+header,body,footer{
+    padding: 5px;
+}
